@@ -1,0 +1,35 @@
+body {
+    background-image:url("https://image.freepik.com/free-vector/beauty-care-seamless-pattern_93150-741.jpg");
+    background-position: center;
+    background-size:cover;
+    background-position-y:-300px;
+}
+.dropbtn {
+    font-size:23px !important;
+    width: fit-content;
+    height: fit-content;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dropdown-content a {
+    display: none;
+    background-color:rgb(171, 219, 248);
+    color:red;
+    font-size:25px;
+    padding:5px;
+}
+.dropdown:hover , .dropdown-content {
+    display: block;
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    color: #329ba8;
+}
+.apply_btn {
+    color:yellow;
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    width: 200px;
+    height:50px;
+}

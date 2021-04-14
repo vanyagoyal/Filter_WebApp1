@@ -1,0 +1,9 @@
+#boy {
+    background:url("https://i.pinimg.com/originals/bc/f4/de/bcf4de9de08ca796aa806015c71cf3a8.png");
+    background-size:cover;
+}
+#girl {
+    background:url("BG.png");
+    background-size:70%;
+    background-position: 60px;
+}
